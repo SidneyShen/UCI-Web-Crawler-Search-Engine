@@ -1,0 +1,206 @@
+Results from Google:
+mondego:
+http://nile.ics.uci.edu:9000/wifi
+http://mondego.ics.uci.edu/
+http://mondego.ics.uci.edu/index.html
+http://mailman.ics.uci.edu/mailman/listinfo/mondego
+http://nile.ics.uci.edu:9000/wifi/user/account/
+http://mailman.ics.uci.edu/mailman/admin/mondego
+http://sdcl.ics.uci.edu/mondego-group/
+http://nile.ics.uci.edu:9000/wifi/forgotpassword
+http://nile.ics.uci.edu:9000/wifi/admin/estates/new
+http://sdcl.ics.uci.edu/2012/05/calico-for-the-mondego-group/
+http://mailman.ics.uci.edu/mailman/private/mondego/
+
+machine learning:
+http://archive.ics.uci.edu/ml/machine-learning-databases/
+http://archive.ics.uci.edu/ml/about.html
+http://cml.ics.uci.edu/
+http://archive.ics.uci.edu/ml/
+http://mlearn.ics.uci.edu/MLRepository.html
+http://sli.ics.uci.edu/Classes/2013F-273a
+http://sli.ics.uci.edu/Classes/2015W-273a
+http://archive.ics.uci.edu/ml/datasets.html
+http://archive.ics.uci.edu/ml/datasets/Credit+Approval
+http://archive.ics.uci.edu/ml/datasets/Diabetes
+			
+software engineering:
+http://www.ics.uci.edu/prospective/en/degrees/software-engineering/
+http://www.ics.uci.edu/grad/degrees/degree_se.php
+http://www.ics.uci.edu/ugrad/degrees/degree_se.php
+http://www.ics.uci.edu/prospective/en/degrees/computer-science-engineering/
+http://www.ics.uci.edu/~ziv/ooad/intro_to_se/tsld008.htm
+http://www.ics.uci.edu/~djr/DebraJRichardson/SE4S.html
+http://www.ics.uci.edu/faculty/area/area_software.php
+http://se.ics.uci.edu/
+http://www.ics.uci.edu/~emilyo/SimSE/se_rules.html
+http://se4s.ics.uci.edu/
+
+security:
+http://ftp.ics.uci.edu/pub/centos0/ics-custom-build/BUILD/nagios-3.0.6/html/docs/security.html
+http://sconce.ics.uci.edu/
+http://www.ics.uci.edu/computing/linux/security.php
+http://www.ics.uci.edu/computing/linux/file-security.php
+http://www.ics.uci.edu/~gts/
+http://sprout.ics.uci.edu/
+http://www.ics.uci.edu/~keldefra/manet.htm
+http://sprout.ics.uci.edu/past_projects/odb/
+http://sprout.ics.uci.edu/projects/privacy-dna/
+http://www.ics.uci.edu/~sbruntha/
+			
+student affairs:
+http://www.ics.uci.edu/prospective/en/contact/student-affairs/
+http://www.ics.uci.edu/about/search/search_sao.php
+http://www.ics.uci.edu/ugrad/
+http://www.ics.uci.edu/grad/sao/
+http://www.ics.uci.edu/about/visit/
+http://www.ics.uci.edu/about/annualreport/2005-06/sao.php
+http://www.ics.uci.edu/ugrad/sao/
+http://www.ics.uci.edu/about/annualreport/2006-07/sao.php
+http://www.ics.uci.edu/grad/
+http://www.ics.uci.edu/about/about_contact.php
+
+graduate courses:
+http://www.ics.uci.edu/grad/courses/
+http://www.ics.uci.edu/grad/courses/listing.php?year=2014&level=ALL&department=CS&program=1COMPSCI
+http://www.ics.uci.edu/grad/courses/listing.php?year=2014&level=ALL&department=EECS&program=0CSSS
+http://www.ics.uci.edu/grad/courses/details.php?id=69
+http://www.ics.uci.edu/grad/courses/details.php?id=48
+http://www.ics.uci.edu/grad/courses/details.php?id=59
+http://www.ics.uci.edu/grad/courses/details.php?id=89
+http://www.ics.uci.edu/grad/courses/details.php?id=72
+http://www.ics.uci.edu/grad/courses/details.php?id=51
+http://www.ics.uci.edu/grad/courses/details.php?id=56
+
+crista lopes:
+http://www.ics.uci.edu/~lopes/
+http://www.ics.uci.edu/~lopes/patents.html
+http://www.ics.uci.edu/~lopes/publications.html
+http://www.ics.uci.edu/~tdebeauv/
+http://mondego.ics.uci.edu/
+http://luci.ics.uci.edu/blog/?tag=crista-lopes&paged=2
+http://www.ics.uci.edu/~lopes/teaching/cs221W12/
+http://luci.ics.uci.edu/blog/?p=416
+http://luci.ics.uci.edu/blog/?feed=rss2&tag=crista-lopes
+http://luci.ics.uci.edu/blog/?tag=crista-lopes
+
+rest:
+http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+http://www.ics.uci.edu/~fielding/pubs/dissertation/evaluation.htm
+http://www.ics.uci.edu/~fielding/pubs/dissertation/abstract.htm
+http://www.ics.uci.edu/~fielding/pubs/dissertation/introduction.htm
+http://www.ics.uci.edu/~fielding/pubs/dissertation/conclusions.htm
+http://www.ics.uci.edu/~fielding/talks/webarch_9805/
+http://asterixdb.ics.uci.edu/documentation/api.html
+http://www.ics.uci.edu/~fielding/pubs/dissertation/software_arch.htm
+http://www.ics.uci.edu/~fielding/
+
+computer games:
+http://www.ics.uci.edu/prospective/en/degrees/computer-game-science/
+http://cgvw.ics.uci.edu/
+http://frost.ics.uci.edu/cs113/
+http://cgvw.ics.uci.edu/affiliated-faculty/
+https://archive.ics.uci.edu/ml/datasets/YouTube+Multiview+Video+Games+Dataset
+http://www.ics.uci.edu/community/events/gameday2015/
+http://www.ics.uci.edu/~jwross/courses/ics60/
+http://cgvw.ics.uci.edu/author/venita/
+http://www.ics.uci.edu/~eppstein/gina/vidgames.html
+http://cgvw.ics.uci.edu/author/admin/
+
+information retrieval:
+http://www.ics.uci.edu/~djp3/classes/2014_01_INF141/calendar.html
+http://www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/
+http://www.ics.uci.edu/~djp3/classes/2010_01_CS221/
+http://www.ics.uci.edu/~lopes/teaching/cs221W12/
+http://www.ics.uci.edu/~djp3/classes/2014_01_INF141/structure.html
+http://www.ics.uci.edu/~lopes/teaching/cs221W13/
+http://www.ics.uci.edu/~djp3/classes/2009_01_02_INF141/calendar.html
+http://www.ics.uci.edu/~kay/courses/i141/w15.html
+http://www.ics.uci.edu/~lopes/
+http://www.ics.uci.edu/~kay/courses/i141/refs.html
+
+
+Rel:
+Rank 1-2 in Google : rel = 3
+Rank 3-5 in Google : rel = 2
+Rank 6-10 in Google : rel = 1
+Others : rel = 0
+
+Methods to improve:
+1. Stemming,   "Cristina" and "Crista", without stemming, they would be considered as different. 
+	"Cristina" ==> "Crist"
+	"Crista" ==> "Crist"
+
+	"course" ==> "cours"
+	"courses" ==> "cours"
+	we use the dictionary from http://snowball.tartarus.org/algorithms/english/stemmer.html
+2. pageRank
+
+3. anchor text
+
+4. title
+
+
+Before improvement: NDCG = 1.3656170245333779
+mondego:
+https://mailman.ics.uci.edu/mailman/listinfo/mondego
+http://mondego.ics.uci.edu/
+http://www.ics.uci.edu/~lopes/
+https://www.ics.uci.edu/community/news/notes/index.php
+http://www.ics.uci.edu/community/news/notes/index
+machine learning:
+http://www.ics.uci.edu/~pazzani/Publications/OldPublications.html
+http://www.ics.uci.edu/~pazzani/Publications/APubs.html
+http://cml.ics.uci.edu/?page=events&subPage=aiml_1213
+http://cml.ics.uci.edu/?page=events&subPage=aiml
+http://isg.ics.uci.edu/events.html
+software engineering:
+http://www.ics.uci.edu/~wscacchi/Papers/Vintage/Software_Productivity.html
+http://www.ics.uci.edu/~taylor/Publications.htm
+http://www.ics.uci.edu/~wscacchi/publications.html
+http://www.ics.uci.edu/~andre/publications.html
+http://www.ics.uci.edu/~wscacchi/
+security:
+http://www.ics.uci.edu/~gts/pubs.html
+http://www.ics.uci.edu/community/news/notes/notes_2009.php
+https://www.ics.uci.edu/community/news/notes/notes_2009.php
+http://www.ics.uci.edu/community/news/notes/notes_2010.php
+http://www.ics.uci.edu/community/news/notes/notes_2007.php
+student affairs:
+http://www.ics.uci.edu/ugrad/qa/index.php
+http://www.ics.uci.edu/ugrad/qa/
+http://www.ics.uci.edu/community/news/notes/notes_2007.php
+http://www.ics.uci.edu/ugrad/
+http://www.ics.uci.edu/ugrad/index.php
+graduate courses:
+http://www.ics.uci.edu/ugrad/qa/index.php
+http://www.ics.uci.edu/ugrad/qa/
+http://www.ics.uci.edu/~jcarlson/gradschool.html
+http://www.ics.uci.edu/community/news/notes/notes_2007.php
+http://www.ics.uci.edu/~pattis/ICS-33/lectures/overview/lecture.html
+crista lopes:
+http://www.ics.uci.edu/~lopes/publications.html
+http://www.ics.uci.edu/~hsajnani/
+http://www.ics.uci.edu/community/news/notes/notes_2007.php
+http://sourcerer.ics.uci.edu/publications.html
+http://www.ics.uci.edu/community/news/features/view_feature?id=67
+rest:
+http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+http://www.ics.uci.edu/~fielding/pubs/dissertation/evaluation.htm
+http://www.ics.uci.edu/~kay/courses/i41/answers.html
+http://www.ics.uci.edu/~thornton/ics184/MidtermSolutions.html
+http://archive.ics.uci.edu/ml/datasets/SPECTF+Heart
+computer games:
+http://www.ics.uci.edu/~wscacchi/
+http://fano.ics.uci.edu/cites/Organization/
+http://www.ics.uci.edu/~eppstein/bibs/eppstein.html
+http://www.ics.uci.edu/~pattis/quotations.html
+http://www.ics.uci.edu/~kay/courses/i42/hw/labA.html
+information retrieval:
+http://www-db.ics.uci.edu/pages/research/mars/
+http://www-db.ics.uci.edu/pages/research/mars.shtml
+http://www-db.ics.uci.edu/pages/research/mars/index.shtml
+http://www.ics.uci.edu/~gbowker/converge.html
+http://isg.ics.uci.edu/events.html
+
